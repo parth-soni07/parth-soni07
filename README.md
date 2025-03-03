@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Parth and I'm a Web3 Full Stack Developer from Indian Institute of Information Technology Vadodra.<br>Currently Working as Rust Blockchain Developer at QuadB Technologies 🧑‍💻 .<br>🤖 Building AI Agents using frameworks like Eliza & Zerepy<br>🏆 Winner 🏆at Partisia MPC Blockchain Hackathon</h2>
+<h2 align="left">Hi 👋! My name is Parth and I'm a Web3 Full Stack Developer from Indian Institute of Information Technology Vadodara.<br>Currently Working as Rust Blockchain Developer at QuadB Technologies 🧑‍💻 .<br>🤖 Building AI Agents using frameworks like Eliza & Zerepy<br>🏆 Winner 🏆at Partisia MPC Blockchain Hackathon</h2>
 
 ###
 
