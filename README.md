@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>I'm Parth, a Web3 Full Stack Developer from Indian Institute of Information Technology Vadodara.<br>Currently Working as Full Stack Developer at Onchained.ai 🧑‍💻.<br>Building AI Agents using frameworks like Eliza & Zerepy 🤖<br>Winner 🏆at Sonic DeFAI Hackathon | Partisia MPC Blockchain Hackathon</h2>
+<h2 align="left">Hi 👋! <br>I'm Parth, a Web3 Full Stack Developer from Indian Institute of Information Technology Vadodara.<br>Currently Working as Full Stack Developer at OAIAO Labs 🧑‍💻.<br>Building AI Agents using frameworks like Eliza & Zerepy 🤖<br>Winner 🏆at Sonic DeFAI Hackathon | Partisia MPC Blockchain Hackathon</h2>
 
 ###
 
