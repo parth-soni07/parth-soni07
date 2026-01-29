@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! <br>I'm Parth, dev at pnp.exchange <br><br>Building AI Agents & Backend frameworks<br>Winner 🏆at Sonic DeFAI Hackathon | Partisia MPC Blockchain Hackathon</h4>
+<h4 align="left">Hi 👋! <br>I'm Parth, dev at pnp.exchange <br> I also contribute to open source community at protocol labs dev guild <br>Currently I'm building AI agents & backend frameworks<br>Winner 🏆at Sonic DeFAI Hackathon | Partisia MPC Blockchain Hackathon</h4>
 
 ###
 
