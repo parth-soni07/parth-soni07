@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>I'm Parth, a Web3 Dev at pnp.exchange <br><br>Building AI Agents & backend frameworks<br>Winner 🏆at Sonic DeFAI Hackathon | Partisia MPC Blockchain Hackathon</h2>
+<h4 align="left">Hi 👋! <br>I'm Parth, dev at pnp.exchange <br><br>Building AI Agents & Backend frameworks<br>Winner 🏆at Sonic DeFAI Hackathon | Partisia MPC Blockchain Hackathon</h4>
 
 ###
 
