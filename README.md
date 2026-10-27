@@ -1,4 +1,7 @@
-<h4 align="left">Hi 👋! <br>I'm Parth, dev at pnp.exchange <br> I also contribute to open source community at protocol labs dev guild <br>Currently I'm building AI agents & backend frameworks<br>Winner 🏆at Sonic DeFAI Hackathon | Partisia MPC Blockchain Hackathon</h4>
+<h4 align="left">Hi 👋 I'm Parth, software engineer at <a href="https://usefaff.com">faff</a>, building a WhatsApp-native personal assistant.<br>
+Backend / full-stack in Python and TypeScript; smart contracts on Solana (Anchor) and EVM (Solidity).<br>
+Previously: pnp.exchange (founding contract engineer), Protocol Labs Dev Guild (py-libp2p).<br>
+🏆 1st prize, Sonic DeFAI Hackathon · Winner, Partisia MPC Hackathon</h4>
 
 ###
 
